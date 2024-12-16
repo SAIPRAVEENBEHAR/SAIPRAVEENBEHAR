@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SAIPRAVEENBEHARA
 - 👀 I’m interested in Java and web development 
-- 🌱 I’m currently learning Java full stack Development 
-- 💞️ I’m looking to collaborate on java and web development 
-- 📫 How to reach me mail id: saipraveen433@gmail.com 
+- 🌱 I’m currently learning  full stack web Development 
+- 📫 How to reach me
+-  saipraveen433@gmail.com 
 
 
 <!---
